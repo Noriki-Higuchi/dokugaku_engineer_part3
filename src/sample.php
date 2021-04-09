@@ -17,4 +17,3 @@ $feature01 = 'sample';
 $feature02 = 'feature02';
 echo 'conflict';
 echo '他人の変更';
-echo 'コミット取り消し';
