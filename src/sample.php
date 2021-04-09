@@ -14,4 +14,5 @@ var_dump($max);
 $number = array_keys($sales, $max);
 var_dump($number);
 $feature01 = 'sample';
+$feature02 = 'feature02';
 echo 'conflict';
