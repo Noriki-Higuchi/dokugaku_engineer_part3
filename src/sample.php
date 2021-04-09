@@ -1,4 +1,5 @@
 <?php
+$conflict = 'conflict';
 
 $sales = [
     1 => 10,
